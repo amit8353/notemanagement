@@ -72,6 +72,7 @@ export default function Login() {
             <input
               onChange={handleChange}
               name="email"
+              placeholder="Enter Email"
               className="bg-gray-200 text-gray-700 focus:outline-none focus:shadow-outline border border-gray-300 rounded py-2 px-4 block w-full appearance-none"
               type="email"
             />

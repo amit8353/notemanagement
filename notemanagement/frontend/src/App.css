@@ -77,3 +77,27 @@ button, input, textarea {
     padding-bottom: 4rem !important;
     padding-top: 12rem !important;
 }
+.filterinput {
+    display: flex;
+    gap: 10px;
+}
+
+
+
+@media (max-width: 640px) {
+    .filterinput {
+        flex-direction: column; 
+        gap: 5px;
+    }
+}
+
+.filterinput input,
+.filterinput select {
+    width: 250px;
+}
+
+
+.mt-4 input {
+    background: white;
+}
+
