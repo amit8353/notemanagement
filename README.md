@@ -8,13 +8,13 @@ notemanagement/
 
 
 cd backend
-npm install
-nodemon server.js
+>npm install
+>nodemon server.js
 
 
 cd frontend
-npm install
-npm run dev
+>npm install
+>npm run dev
 
 
 
