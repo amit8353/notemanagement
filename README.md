@@ -22,4 +22,3 @@ npm run dev
 Backend: Node.js, Express.js
 Frontend: React.js, Tailwind CSS
 Database: MongoDB
-

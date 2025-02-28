@@ -72,3 +72,8 @@ button, input, textarea {
 .text-red-500{
     color: red !important; 
 }
+
+.loginmain{
+    padding-bottom: 4rem !important;
+    padding-top: 12rem !important;
+}
